@@ -4,7 +4,7 @@
         <Name>'Interface Nav' for CodeRush</Name>
         <Author>Rory Becker</Author>
         <Version>1.0</Version>
-        <Description xml:space="preserve">'Interface Nav' for CodeRush</Description>
+        <Description xml:space="preserve">'Interface Nav' for CodeRush add new JumpTo options allowing the user to navigate between an interface method and it's various implementations.</Description>
         <Locale>1033</Locale>
         <Icon>CR-Plug-in.png</Icon>
         <SupportedProducts>
